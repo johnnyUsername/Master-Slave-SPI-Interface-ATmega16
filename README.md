@@ -9,4 +9,4 @@ Sheme for connecting devices:
 
 ![alt text](shem.png)
 
-Hope this code helps you.
+Hope this code helps you :).
