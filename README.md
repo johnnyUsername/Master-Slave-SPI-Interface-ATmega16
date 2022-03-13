@@ -7,6 +7,6 @@ IMPORTANT: Inside example code, the LCD library which is included is not provide
 
 Sheme for connecting devices:
 
-![alt text](atemga16.png)
+![alt text](shem.png)
 
 Hope this code helps you.
