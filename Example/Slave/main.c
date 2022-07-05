@@ -3,7 +3,6 @@
  *
  * Used for receiving data over SPI.
  *
- * Created: 27.11.21. 12:42:52
  * Author : Ivan Kucinic
  */ 
 #define F_CPU 8000000UL
