@@ -1,7 +1,6 @@
 /*
  * Master_ATmega16.c
  *
- * Created: 28.11.21. 17:05:55
  * Author : Ivan Kucinic
  */ 
 #define F_CPU 8000000UL
